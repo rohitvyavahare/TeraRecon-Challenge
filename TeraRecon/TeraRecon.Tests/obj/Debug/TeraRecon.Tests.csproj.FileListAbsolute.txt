@@ -1,0 +1,56 @@
+E:\Coding\TeraRecon\TeraRecon.Tests\obj\Debug\TeraRecon.Tests.csprojResolveAssemblyReference.cache
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\TeraRecon.Tests.dll.config
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\TeraRecon.Tests.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\TeraRecon.Tests.pdb
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Razor.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\TeraRecon.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\EntityFramework.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\TeraRecon.pdb
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Razor.xml
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\EntityFramework.xml
+E:\Coding\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Coding\TeraRecon\TeraRecon.Tests\obj\Debug\TeraRecon.Tests.dll
+E:\Coding\TeraRecon\TeraRecon.Tests\obj\Debug\TeraRecon.Tests.pdb
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\TeraRecon.Tests.dll.config
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\TeraRecon.Tests.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\TeraRecon.Tests.pdb
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\EntityFramework.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\TeraRecon.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\TeraRecon.pdb
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\EntityFramework.xml
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\obj\Debug\TeraRecon.Tests.csprojResolveAssemblyReference.cache
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\obj\Debug\TeraRecon.Tests.dll
+C:\Users\rohit\Documents\Visual Studio 2013\Projects\TeraRecon\TeraRecon.Tests\obj\Debug\TeraRecon.Tests.pdb
